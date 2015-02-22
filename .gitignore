@@ -58,3 +58,6 @@ target/
 
 #Mac temp files
 .DS_Store
+
+#Secret files
+login.txt
