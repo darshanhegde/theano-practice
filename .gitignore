@@ -55,3 +55,6 @@ target/
 
 #Theano temp files
 .idea/
+
+#Mac temp files
+.DS_Store
